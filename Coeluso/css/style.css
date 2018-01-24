@@ -1,0 +1,170 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 24, 2018, 5:18:35 PM
+    Author     : StormShadow
+*/
+body{
+    background: #0A2345;
+}
+.header{
+    background: #0A2345;
+}
+.logo{
+    margin-top: 20px;
+}
+.menu{
+ margin-top: 51px; 
+margin-left: 50px;
+}
+.menu> ul> li> a{
+    color: #c6c7ec;
+    font-size: 12px;
+}
+.menu> ul> li> a:hover{
+    color: #FF3334;
+    background: transparent;
+    transition: .5s;
+    opacity: 100;
+    border-left: 2px solid #0A2345;
+    text-decoration: none;
+
+}
+.music_part_wrapper{
+    margin-top: 100px;
+}
+.music_part_wrapper> h3> span{
+    color:#FF3334;
+    
+}
+.music_part_wrapper> h3{
+    color:white;
+    font-size: 30px;
+}
+.music_part_wrapper> p{
+    color: #e6e6e6;
+    font-size: 12px;
+}
+.btn_one{
+    margin-top: 35px;
+    color:#0A2345;
+    background:#FF3334;
+    border-radius: 50px;
+}
+.btn_one:hover{
+   background: #0A2345;
+    border: 1px solid #FF3334;
+    color:#cccccc;
+    font-size: 15px;
+     text-decoration: none;
+}
+.back_image_wrapper{
+ background-image: url(../images/stream_background.png);
+ background-position: center,center;
+  background-repeat: no-repeat;
+  margin-top: 259px; 
+}
+.back_image_wrapper{
+    margin-top: 350px;
+}
+.headphone_image{
+    margin-top: 50px;
+}
+.hp_text> h3> span{
+color:  #FF3334;   
+}
+.hp_text> p{
+color: #e6e6e6;
+ font-size: 12.4px;
+}
+.hp_text> h3{
+    color: white;
+}
+.button_two{
+    margin-top: 19px;
+ border-radius: 50px;
+ background:#FF3334;
+}
+.button_two> a{
+    color: white;
+}
+.button_two> a:hover{
+    color: white;
+     text-decoration: none;
+}
+.button_two:hover{
+    background: #0A2345;
+    font-size: 15px;
+    border: 1px solid #FF3334;
+}
+.common {
+   margin-top: 280px; 
+}
+.common> h4> span{
+    color: white;
+}.common> p{
+  color: #e6e6e6;  
+}
+.mobile_image{
+    margin-top: 230px;
+}
+.common> h4{
+color: #004d80;
+}
+.image_text> h4{
+  color:white;
+}
+.image_text> p{
+ color: #a6a6a6;
+}
+.button_three{
+    font-size: 11px;
+    background: #FF3334;
+    color: white;
+    border: 1px solid #FF3334;
+    border-radius: 50px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.button_three:hover{
+    color: white;
+    background: transparent;
+    border: 1px solid #2A5DA3;
+    transition: 0.5s;
+     text-decoration: none;
+}
+.author> img{
+    width: 120px;
+}
+.author{
+  
+    margin-top: 245px;
+}
+.author> blockquote{
+    color: white;
+    margin-top: 20px;
+}
+.list_last> ul> li> a{
+ color: #c6c7ec; 
+ font-size: 10px;
+}
+.list_last> ul> li> a:hover{
+ color: #FF3334;
+    background: transparent;
+    transition: .5s;
+    opacity: 100;
+    border-left: 2px solid #0A2345;
+    text-decoration: none;
+
+}
+.copyright> h6{
+    color:#FF3334;
+}
+.copyright> h6> span{
+    color: black;
+    background: white;
+}
+
